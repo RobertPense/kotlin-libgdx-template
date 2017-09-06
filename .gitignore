@@ -1,2 +1,6 @@
 desktop/build
 core/build
+build
+
+.idea
+.gradle
